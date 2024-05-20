@@ -1,0 +1,2 @@
+# newweb
+static website
